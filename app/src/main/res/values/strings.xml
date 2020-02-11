@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TedDeepLinkSample</string>
+
+    <string name="ted_scheme">ted</string>
+
+    <string name="scheme_host_main">main</string>
+    <string name="scheme_host_detail">detail</string>
+    <string name="scheme_host_country">country</string>
+
+</resources>
